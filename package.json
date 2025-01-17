@@ -1,0 +1,39 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "101st Discord bot",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": "23.1.0"
+  },
+  "scripts": {
+    "start": "node --experimental-specifier-resolution=node --loader ts-node/esm src/index.ts",
+    "dev": "concurrently \"nodemon --exec node --experimental-specifier-resolution=node --loader ts-node/esm src/index.ts\"",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Paris,Coyote",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "colors": "^1.4.0",
+    "date-and-time": "^3.6.0",
+    "discord-api-types": "^0.37.79",
+    "discord.js": "^14.13.0",
+    "luxon": "^3.5.0",
+    "ms": "^2.1.3",
+    "mysql2": "^3.9.3",
+    "node-cron": "^3.0.3",
+    "node-emoji": "^2.1.3",
+    "ts-node": "^10.9.1",
+    "typeorm": "^0.3.20"
+  },
+  "devDependencies": {
+    "@types/luxon": "^3.4.2",
+    "concurrently": "^7.3.0",
+    "nodemon": "^3.0.1"
+  },
+  "nodeVersion": "23.1.0",
+  "file": "bot.js"
+}
