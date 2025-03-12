@@ -12,6 +12,9 @@ Some Features:
     Voice Channel Management: Automatically create and delete voice channels based on deployment status.
     Failsafes and Error Handling: Built for smooth operation even under high-traffic situations.
 
-License
+For those of you who in the 505th that say 'I dont like you becuase of the nuke' or whatnot.
+YOU are literally using Athena in your server. 
+
+LicenseAA
 
 This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
