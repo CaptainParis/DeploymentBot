@@ -182,7 +182,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - [CaptainParis](https://github.com/CaptainParis) 
 - [DeathTrooperr](https://github.com/DeathTrooperr) 
-ty Dethtrooper for fixing my shitty code <3
+ty Deathtrooper for fixing my shitty code <3
 
 # License
 
