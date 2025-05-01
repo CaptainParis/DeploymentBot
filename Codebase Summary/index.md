@@ -6,7 +6,7 @@ It also features a *Queue System* for organizing players wanting to join spontan
 Users interact with the bot primarily through **slash commands** and **buttons**.
 
 
-**Source Repository:** [https://github.com/CaptainParis/Deployment-bot](https://github.com/CaptainParis/Deployment-bot)
+**Source Repository:** [https://github.com/CaptainParis/Deployment-bot](https://github.com/CaptainParis/DeploymentBot)
 
 ```mermaid
 flowchart TD
