@@ -15,15 +15,15 @@ export default {
         database: "na"
     },
     satus: { text: "/bugreport"},
-    verifiedRoleId: "1300670595918332007",
-    guildId: "1218615560049397770",
-    departureChannel: "1297304177021685821",
-    bugReportChannelId: "1302748846547533834",
-    vcCategory: "1297303880706818109",
-    loggingChannels: ["1297709020534013953", "1302855434415116309"],
+    verifiedRoleId: "DISCORD ROLE ID",
+    guildId: "DISCORD GUILD ID",
+    departureChannel: "DISCORD CHANNEL ID",
+    bugReportChannelId: "DISCORD CHANNEL ID",
+    vcCategory: "DISCORD CHANNEL ID",
+    loggingChannels: ["DISCORD CHANNEL ID", "DISCORD CHANNEL ID"],
     backupEmoji: "<:Backup:1289325583905456251>",
-    hostRole: "1296482820067295284",
-    blacklistedRoles: ["1303095979507056702"],
+    hostRole: "DISCORD ROLE ID",
+    blacklistedRoles: ["DISCORD ROLE ID"],
     queueMaxes: {
         hosts: 50,
         players: 200,
@@ -32,42 +32,44 @@ export default {
     roles: [
         {
             name: "Offense",
-            emoji: "<:Offence:1289325516494737512>"
+            emoji: "EMOJI ID"
         },
         {
             name: "Mechanized infantry",
-            emoji: "<:Mechinf:1289325461238841405>"
+            emoji: "EMOJI ID"
         },
         {
             name: "Support",
-            emoji: "<:Support:1289325497049944136>"
+            emoji: "EMOJI ID"
         },
         {
             name: "Defence",
-            emoji: "<:Defence:1289325447850623087>"
+            emoji: "EMOJI ID"
         },
         {
             name: "Scout",
-            emoji: "<:Scout:1289325477789696120>"
+            emoji: "EMOJI ID"
         }
     ],
     channels: [
         {
             name: "Battalion - For those who just want to serve anywhere, anytime.",
             emoji: "🏴‍☠️",
-            channel: "1297305928449790033"
+            channel: "DISCORD CHANNEL ID"
         },
         {
             name: "EU — Ready to fight across the European front!",
             emoji: "🇪🇺",
-            channel: "1297305445903503422"
+            channel: "DISCORD CHANNEL ID"
         },
         {
             name: "NA — North American chaos incoming!",
             emoji: "🇺🇸",
-            channel: "1297305575348109434"
+            channel: "DISCORD CHANNEL ID"
         }
     ],
+
+    // dont change these *
     embeds: {
         presets: {
             success: {
@@ -82,7 +84,7 @@ export default {
             },
             info: {
                 thumbnail: "https://img.icons8.com/bubbles/200/info--v1.png",
-            },
+            }, // end
             default: {
                 title: null,
                 description: null,
@@ -115,7 +117,7 @@ export default {
                 noDeployments: "⛔┃No Upcoming Deployments"
             },
             footer: {
-                text: '101st "Hell" Battalion',
+                text: 'SERVER',
                 image: "https://cdn.discordapp.com/attachments/1224638196902531082/1280659026610491485/MOSHED-2024-9-2-22-45-12.gif"
             }
         }
