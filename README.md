@@ -178,6 +178,11 @@ The bot uses several database tables to store information:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+## Credits
+
+- [CaptainParis](https://github.com/CaptainParis) 
+- [DeathTrooperr](https://github.com/DeathTrooperr) 
+ty Dethtrooper for fixing my shitty code <3
 
 # License
 
