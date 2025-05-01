@@ -1,8 +1,5 @@
 # Deployment Bot
 Deployment Bot simplifies the process of creating, managing, and executing deployments in the 101st, handling everything from automated group formation to voice channel management. Designed to maximize efficiency and adaptability, Deployment Bot can sort and manage 500+ people at once for battalion-sized operations.
-# Deployment Bot
-
-A Discord bot designed to manage and organize deployments, queues, and voice channels for gaming communities. This bot helps coordinate players, schedule events, and manage team compositions.
 
 # For a Detailed Codebase Summary Please See [Codebase Summary](Codebase%20Summary/index.md)
 
